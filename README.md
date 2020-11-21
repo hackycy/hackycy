@@ -1,2 +1,2 @@
-[![](https://raw.githubusercontent.com/hackycy/hackycy/main/bg.jpg)](https://blog.si-yee.com/)
+[![](https://raw.githubusercontent.com/hackycy/hackycy/main/bg.jpg)](https://blog.si-yee.com/about)
 
