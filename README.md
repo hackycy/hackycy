@@ -5,9 +5,9 @@
 - 📚  Learning **Vue3.0** & **Nest.js** & **Ts** now.
 - 😄  Welcome to visit **[my blog](https://blog.si-yee.com)**
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true)
 
-<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&layout=compact&hide=html,css"/>
+![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&layout=compact&hide=html,css)
 
 
 ### 🛠 &nbsp;Tech Stack
