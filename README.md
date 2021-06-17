@@ -6,11 +6,8 @@
 - 😄  Welcome to visit my github**[my github](https://blog.si-yee.com)**
 
 <div class="half">
-
-	<a href="https://github.com/hackycy"><img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true" /></a>
-	
-	<a href="https://github.com/hackycy"><img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&layout=compact&hide=html,css" /></a>
-
+  <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true" />
+  <img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&hide=html,css" />
 </div>
 
 
