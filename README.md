@@ -2,7 +2,7 @@
 
 ### Want to be a full stack developer
 
-- 📚  Learning **Vue3.0** & **Nest.js** & **Ts** now.
+- 📚  Learning **Vue3.0** & **Nest.js** & **Ts** & **Flutter** now.
 - 😄  Welcome to visit **projects**
 
 <div class="half">
