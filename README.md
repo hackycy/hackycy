@@ -3,13 +3,12 @@
 ### Want to be a full stack developer
 
 - 📚  Learning **Vue3.0** & **Nest.js** & **Ts** now.
-- 😄  Welcome to visit my github**[my github](https://blog.si-yee.com)**
+- 😄  Welcome to visit **projects**
 
 <div class="half">
   <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true" />
   <img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&hide=html,css" />
 </div>
-
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
