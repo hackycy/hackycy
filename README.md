@@ -3,7 +3,7 @@
 ### Want to be a full stack developer
 
 - 📚  Learning  **Vue3.0** & **Nest.js** & **TypeScript** & **Flutter** now.
-- 😄  Welcome to visit my **projects**.
+- 😄  Welcome to visit my **open source projects**.
 
 <div class="half">
   <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hackycy&count_private=true&show_icons=true" />
