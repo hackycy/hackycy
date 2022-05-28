@@ -2,7 +2,7 @@
 
 ### Want to be a full stack developer
 
-- 📚  Learning  **Vue3.0** & **Nest.js** & **TypeScript** now.
+- 📚  Learning  **Vue3.0** & **TypeScript** now.
 - 😄  Welcome to visit my **open source projects**.
 
 <div class="half">
