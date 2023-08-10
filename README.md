@@ -2,7 +2,7 @@
 
 ### Want to be a full stack developer
 
-- 😄  Welcome to visit my **open source projects**.
+- 😄 Welcome to visit my **open source projects**.
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
