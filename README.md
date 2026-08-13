@@ -5,7 +5,6 @@
 - 😄 Welcome to visit my **open source projects**.
 
 <br />
-<img src="https://ghfind.com/api/card/mini/hackycy?lang=zh" />
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
