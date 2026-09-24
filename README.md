@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="hackycy header" />
 </p>
@@ -41,4 +40,3 @@
 Feel free to explore my repositories or reach out if you'd like to talk about open source, developer tools, or interesting ideas.
 
 [GitHub](https://github.com/hackycy) · [Email](mailto:qa894178522@qq.com)
-```
