@@ -2,19 +2,13 @@
 
 # Hi, I'm Leo Yang 👋
 
-### `hackycy` · Aspiring Full-Stack Developer
+**Full-Stack Developer · Open Source Enthusiast · Builder**
 
-Building practical open-source tools, exploring modern web development,
-and learning by shipping.
+I enjoy building useful things, exploring developer tools,
+and turning ideas into working products.
 
-<p>
-  <a href="https://github.com/hackycy">
-    <img src="https://img.shields.io/badge/GitHub-hackycy-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:qa894178522@qq.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-hackycy-181717?style=flat-square\&logo=github)](https://github.com/hackycy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:qa894178522@qq.com)
 
 </div>
 
@@ -22,21 +16,23 @@ and learning by shipping.
 
 ## 👨‍💻 About Me
 
-I enjoy building useful things and turning ideas into working products.
-
-Currently exploring **full-stack development**, open-source projects, developer tooling, and the evolving world of **AI-powered development**.
+* 🧑‍💻 Exploring **full-stack development**
+* 🛠️ Interested in **developer tooling** and **open source**
+* 🤖 Exploring **AI-powered development** and Agent Skills
+* 🚀 Learning by building and shipping
 
 > Keep building. Keep learning. Keep shipping.
 
+---
+
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,git,docker&theme=dark" alt="Tech Stack" />
-</p>
-
-**Frontend** · JavaScript · TypeScript · Vue
-**Backend** · Node.js
-**Tools** · Git · Docker
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square\&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat-square\&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square\&logo=nodedotjs)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square\&logo=docker)
 
 ---
 
@@ -44,45 +40,102 @@ Currently exploring **full-stack development**, open-source projects, developer 
 
 > More projects beyond my GitHub pinned repositories.
 
-<!--
-How to add another repository:
-
-1. Copy the <a>...</a> block below.
-2. Change `repo=skills` to your repository name.
-3. Change the href to the repository URL.
-4. Keep width="48%" to display two repositories per row.
-
-Example:
-<a href="https://github.com/hackycy/YOUR_REPO">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackycy&repo=YOUR_REPO&theme=transparent&hide_border=false" />
-</a>
--->
-
-<p>
-  <a href="https://github.com/hackycy/skills">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackycy&repo=skills&theme=transparent&hide_border=false" alt="skills" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧩 [hackycy/skills](https://github.com/hackycy/skills)
 
 My personal collection of reusable **Agent Skills**, development preferences, and useful AI development resources.
 
+**Topics**
+
+`AI` `Agent Skills` `Developer Tools`
+
 ```bash
 pnpx skills@latest add hackycy/skills
 ```
 
+[View Repository →](https://github.com/hackycy/skills)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 Your Next Project
+
+A short description about what this project does and why you built it.
+
+**Topics**
+
+`TypeScript` `Vue` `Node.js`
+
+```bash
+# optional usage example
+pnpm install
+```
+
+[View Repository →](https://github.com/hackycy)
+
+</td>
+</tr>
+</table>
+
+<!--
+
+ADD MORE PROJECTS
+
+复制下面整个 <td>...</td>，放进 <tr> 里面即可。
+
+推荐一行放两个项目：
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 [Project Name](https://github.com/hackycy/REPO_NAME)
+
+A short and clear description of your project.
+
+**Topics**
+
+`TypeScript` `Vue` `Open Source`
+
+[View Repository →](https://github.com/hackycy/REPO_NAME)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 [Another Project](https://github.com/hackycy/REPO_NAME)
+
+A short and clear description of your project.
+
+**Topics**
+
+`Node.js` `Docker` `Tools`
+
+[View Repository →](https://github.com/hackycy/REPO_NAME)
+
+</td>
+
+</tr>
+</table>
+
+-->
+
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Exploring
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hackycy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackycy&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-
-</div>
+```text
+Full-Stack Development
+├── Modern Web Development
+├── Developer Experience
+├── Open Source
+└── AI / Agent Skills
+```
 
 ---
 
@@ -90,14 +143,13 @@ pnpx skills@latest add hackycy/skills
 
 ### 🤝 Let's Connect
 
-I'm always interested in interesting projects, open-source ideas, and new technologies.
+I'm always interested in interesting projects, open-source ideas,
+and new technologies.
 
-<a href="mailto:qa894178522@qq.com">
-  <img src="https://img.shields.io/badge/Email-qa894178522%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[Email](mailto:qa894178522@qq.com) · [GitHub](https://github.com/hackycy)
 
-<br/><br/>
+<br>
 
-<sub>Thanks for visiting my profile ✨</sub>
+<sub>Thanks for visiting 👋</sub>
 
 </div>
