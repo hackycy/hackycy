@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/hackycy.png" width="110" alt="hackycy" />
+<img src="./bg.jpg" width="100%" alt="hackycy banner" />
 
 # Hi, I'm hackycy 👋
 
