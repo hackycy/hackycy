@@ -1,53 +1,20 @@
-<h1 align="center">Hi, I'm Leo 👋</h1>
+## Hi, I'm hackycy 👋
 
-<p align="center">
-  Full-Stack Developer · Open Source · AI & Developer Tools
-</p>
+Full-stack developer interested in open source, developer tools, and AI-powered development.
 
-<p align="center">
-  <a href="https://github.com/hackycy">
-    <img src="https://img.shields.io/badge/GitHub-hackycy-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:qa894178522@qq.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🛠 Tech Stack
 
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat\&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat\&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat\&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
 
-## About
+### 📌 More Repositories
 
-Building things for the web, exploring open source, and experimenting with AI-powered developer tools.
+* [hackycy/skills](https://github.com/hackycy/skills)
 
-<br>
+### 🤝 Contact
 
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Vue.js-181717?style=flat-square&logo=vuedotjs" />
-  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git" />
-</p>
-
-<br>
-
-## More Repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <h3>
-        <a href="https://github.com/hackycy/skills">▱&nbsp; hackycy/skills</a>
-      </h3>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <sub>Building, learning, shipping.</sub>
-</p>
+[![Email](https://img.shields.io/badge/Email-qa894178522@qq.com-blue?style=flat-square\&logo=gmail)](mailto:qa894178522@qq.com)
