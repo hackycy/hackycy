@@ -36,120 +36,20 @@ and turning ideas into working products.
 
 ---
 
-## 🚀 More Projects
+## 📌 More Repositories
 
-> More projects beyond my GitHub pinned repositories.
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🧩 [hackycy/skills](https://github.com/hackycy/skills)
-
-My personal collection of reusable **Agent Skills**, development preferences, and useful AI development resources.
-
-**Topics**
-
-`AI` `Agent Skills` `Developer Tools`
-
-```bash
-pnpx skills@latest add hackycy/skills
-```
-
-[View Repository →](https://github.com/hackycy/skills)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📦 Your Next Project
-
-A short description about what this project does and why you built it.
-
-**Topics**
-
-`TypeScript` `Vue` `Node.js`
-
-```bash
-# optional usage example
-pnpm install
-```
-
-[View Repository →](https://github.com/hackycy)
-
+<td width="50%">
+<a href="https://github.com/hackycy/skills"><b>hackycy/skills</b></a>
 </td>
 </tr>
 </table>
-
-<!--
-
-ADD MORE PROJECTS
-
-复制下面整个 <td>...</td>，放进 <tr> 里面即可。
-
-推荐一行放两个项目：
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 [Project Name](https://github.com/hackycy/REPO_NAME)
-
-A short and clear description of your project.
-
-**Topics**
-
-`TypeScript` `Vue` `Open Source`
-
-[View Repository →](https://github.com/hackycy/REPO_NAME)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 [Another Project](https://github.com/hackycy/REPO_NAME)
-
-A short and clear description of your project.
-
-**Topics**
-
-`Node.js` `Docker` `Tools`
-
-[View Repository →](https://github.com/hackycy/REPO_NAME)
-
-</td>
-
-</tr>
-</table>
-
--->
-
----
-
-## 🌱 Currently Exploring
-
-```text
-Full-Stack Development
-├── Modern Web Development
-├── Developer Experience
-├── Open Source
-└── AI / Agent Skills
-```
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-I'm always interested in interesting projects, open-source ideas,
-and new technologies.
-
-[Email](mailto:qa894178522@qq.com) · [GitHub](https://github.com/hackycy)
-
-<br>
-
-<sub>Thanks for visiting 👋</sub>
+[GitHub](https://github.com/hackycy) · [Email](mailto:qa894178522@qq.com)
 
 </div>
