@@ -1,17 +1,9 @@
-<div align="center">
-
-<img src="./bg.jpg" width="100%" alt="hackycy banner" />
-
-# Hi, I'm hackycy 👋
-
-**Full-Stack Developer · Open Source · Developer Tools**
-
-<p>
-  Building useful things for the web.<br/>
-  Exploring open source, AI, and better developer experience.
+```md
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="hackycy header" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/hackycy">
     <img src="https://img.shields.io/badge/GitHub-hackycy-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
@@ -20,22 +12,16 @@
   </a>
 </p>
 
-</div>
+## 👨‍💻 About Me
 
----
-
-### 👨‍💻 About Me
-
-* 🌱 Focused on **full-stack development**
-* 🛠 Interested in **developer tools** and **open source**
-* 🤖 Exploring **AI-powered development** and Agent Skills
-* 🚀 Learning through building and shipping
+- 🌱 Focused on **full-stack development**
+- 🛠 Interested in **developer tools** and **open source**
+- 🤖 Exploring **AI-powered development** and Agent Skills
+- 🚀 Learning through building and shipping
 
 > Build things. Learn things. Share things.
 
----
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -46,28 +32,13 @@
   <img src="https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
----
+## 📌 More Repositories
 
-### 📌 More Repositories
+- [`hackycy/skills`](https://github.com/hackycy/skills)
 
-* [`hackycy/skills`](https://github.com/hackycy/skills)
-
----
-
-### 🤝 Connect
+## 🤝 Connect
 
 Feel free to explore my repositories or reach out if you'd like to talk about open source, developer tools, or interesting ideas.
 
-<p>
-  <a href="https://github.com/hackycy">GitHub</a>
-  ·
-  <a href="mailto:qa894178522@qq.com">Email</a>
-</p>
-
----
-
-<div align="center">
-
-<sub>Thanks for stopping by ✨</sub>
-
-</div>
+[GitHub](https://github.com/hackycy) · [Email](mailto:qa894178522@qq.com)
+```
